@@ -17,9 +17,7 @@ The Recipe App is a web application that allows users to search for recipes usin
 
 ## Installation
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/recipe-app.git
-   Open index.html in your web browser.
+   https://github.com/DEEPIKA020605/Recipe-App-API-based-web-application-/tree/main
 2. Usage:
 Enter a keyword in the search bar and click "Search" to find recipes.
 Click "View Recipe" to see detailed instructions.
